@@ -10,7 +10,7 @@ __global__ void add(int *a, int *b, int *c)
 
 /* experiment with different values of N */
 /* how large can you make it? */
-#define N 32
+#define N 500000
 
 int main()
 {
